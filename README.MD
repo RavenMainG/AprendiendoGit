@@ -10,5 +10,11 @@
 
 
 ## comandos
+
 - git status
     > este nos indica el estado de los archivos que estan en el espacio de trabajo
+
+- git add
+    > este comando de git pasa los archivos que tenemos en el espacio de trabajo al area de preparacion
+- git commit
+    > este comando nos permite pasar los archivos del area de preparacion al repositorio, se debe de ingresar un mensaje que indique lo que se realizo
