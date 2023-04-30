@@ -30,4 +30,6 @@
 
 - git restore --staged <Nombre del archivo que se quiere sacar del area de preparacion>
     > este comando puede sacar del area de preparacion los archivos que hemos agregado del area de trabajo
-    
+
+- git diff <archivo>
+    > este comando muestra las diferencias o cambios que se han realizado con respecto a lo que ya esta almacenado en el repositorio
