@@ -39,4 +39,9 @@
 
 - git checkout master
     > este comando se usa cuando no se esta en el ultimo commit para volver a el ultimo
-    
+
+- git log --raw
+    > este comando nos muestra las cosas que han sucedido durante el commit, su se modifico algo o se agrego/elimino algo
+
+- git checkout -b <nombre de la rama nueva>, git checkout nuevaRama
+    > este comando sirve para crear una nueva rama para poder trabajar de forma indepenciente en una nueva rama
