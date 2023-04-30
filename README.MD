@@ -33,3 +33,10 @@
 
 - git diff <archivo>
     > este comando muestra las diferencias o cambios que se han realizado con respecto a lo que ya esta almacenado en el repositorio
+
+- git checkout <hahs del commit a cual se quiere volver para revisar>
+    > este comando permite volver a una de los commits anteriores para poder revisarlo u o cambiarlo
+
+- git checkout master
+    > este comando se usa cuando no se esta en el ultimo commit para volver a el ultimo
+    
