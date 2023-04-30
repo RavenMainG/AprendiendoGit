@@ -21,3 +21,10 @@
 
 - git commit -am "Mensaje del commit"
     > este comando realiza el paso de mandar el espacio de trabajo, pasando por el area de preparacion llendo gasta el reporsitorio en un solo comando pero que solo trabaja con los archivos modificados
+
+- git checkout <archivo del cual se quiere deshacer el cambio>
+    > este comando deshace los cambios que se han realizado en un archivo desde el ultimo commit
+
+- git checkout -f
+    > este comando fuerza a deshacer todos los cambios desde el ultimo commit pero de todos los archivos
+    
